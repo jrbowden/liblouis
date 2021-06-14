@@ -4,6 +4,9 @@ EXTRA_DIST =					\
 	ar-ar-g1.yaml				\
 	ar-ar-g1_harness.yaml			\
 	ar-ar-g2.yaml				\
+	ba.yaml					\
+	bel.yaml				\
+	bg.yaml					\
 	chr-us-g1_harness.yaml			\
 	cop-eg.yaml				\
 	cs_harness.yaml				\
@@ -24,6 +27,7 @@ EXTRA_DIST =					\
 	da-dk-g28l.yaml				\
 	de-ch-g1.yaml				\
 	de-de-comp8.yaml			\
+	de-emphasis.yaml			\
 	de-eurobrl6.yaml			\
 	de-g0-bidi-dictionary.yaml		\
 	de-g0-bidi-specs.yaml			\
@@ -34,8 +38,7 @@ EXTRA_DIST =					\
 	de-g2-specs.yaml			\
 	el-backward.yaml			\
 	el-forward.yaml				\
-	en-GB-g2_backward.yaml			\
-	en-GB-g2_harness.yaml			\
+	en-GB-g2.yaml				\
 	en-gb-g1_harness.yaml			\
 	en-nabcc.yaml				\
 	en-ueb-02-stand_alone.yaml		\
@@ -88,6 +91,8 @@ EXTRA_DIST =					\
 	hu-hu-g2_harness.yaml			\
 	hu-hu-g2_backward.yaml			\
 	iu-ca-g1_harness.yaml			\
+	kk.yaml					\
+	kmr.yaml				\
 	ko-2006-g2_harness.yaml			\
 	ko-g2_harness.yaml			\
 	litdigits6Dots_backward.yaml		\
@@ -106,21 +111,23 @@ EXTRA_DIST =					\
 	no_g2_harness.yaml			\
 	no_harness.yaml				\
 	no_typeform_harness.yaml		\
-	Pl-Pl-g1_backward.yaml			\
-	Pl-Pl-g1_harness.yaml			\
+	pl-g1.yaml				\
 	pl-pl-comp8_harness.yaml		\
 	pt-g1.yaml				\
 	ru.yaml					\
+	sah.yaml				\
 	sk-g1_harness.yaml			\
 	sl-g1.yaml				\
 	spaces.yaml				\
 	sr-g1_harness.yaml			\
+	st-g2.yaml			  	\
 	ta-ta-g1_harness.yaml			\
+	tt.yaml					\
 	uk.yaml					\
 	ur-pk-g2.yaml				\
 	uz.yaml					\
-	vi-g1_backward.yaml			\
-	vi-g1_harness.yaml			\
+	vi.yaml					\
+	xh-g2.yaml				\
 	zh-chn.yaml				\
 	zh-tw.yaml				\
 	zhcn-g1.yaml				\
